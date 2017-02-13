@@ -1,0 +1,38 @@
+/* ANIMATION CSS */
+
+/* AUX CSS */
+
+/* 
+I'm using these amazing project for the cards: 
+https://sourceforge.net/projects/vector-cards/
+licensed under LPGL 3.0.
+*/
+
+body {
+    background-image: url("http://i.imgur.com/Ak9p24B.jpg");
+    overflow: hidden;
+}
+
+.deck {
+  
+}
+
+.card {
+  width: 180px;
+  height: 251px;
+  margin: auto;
+  position: relative;
+  top: 100vh;
+}
+
+button {
+  background-color:red;
+  color: white;
+  border: 0;
+  padding: 10px;
+}
+
+/* this sets the card size */
+html {
+    font-size: 40px;
+}
